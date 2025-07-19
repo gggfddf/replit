@@ -1,0 +1,279 @@
+# 🚀 ULTIMATE DEEP LEARNING STOCK MARKET ANALYSIS SYSTEM - COMPREHENSIVE PROMPT
+
+Create a **FULLY AUTONOMOUS DEEP LEARNING STOCK MARKET ANALYSIS SYSTEM** in Python that unveils market secrets through proprietary machine learning algorithms. This system must be an **EXPERT-LEVEL MARKET INTELLIGENCE ENGINE** specifically designed for the **Indian Stock Market**.
+
+---
+
+## 🎯 CORE SYSTEM SPECIFICATIONS:
+
+### **SINGLE EDITABLE PARAMETER:**
+- **ONLY** stock symbol should be changeable (e.g., 'RELIANCE.NS')
+- **ALL OTHER FUNCTIONALITY** remains constant and automated
+- **TARGET MARKET**: Indian Stock Market with live data fetching
+
+---
+
+## 🧠 AUTONOMOUS DEEP LEARNING ARCHITECTURE:
+
+### **1. PROPRIETARY PATTERN DISCOVERY ENGINE**
+```
+BUILD YOUR OWN ALGORITHMS (NO COPYING TRADITIONAL METHODS):
+
+CANDLESTICK PATTERN DISCOVERY:
+- Create ML algorithms that automatically discover candlestick patterns from raw OHLCV data
+- Use unsupervised learning (clustering, autoencoders) to find recurring formations
+- Develop pattern evolution tracking across different timeframes
+- Build pattern success rate calculation methodologies
+- Create NEW candlestick patterns not found in traditional analysis
+- Design pattern clustering algorithms to group similar formations
+- Build breakout prediction algorithms based on discovered patterns
+
+CHART PATTERN RECOGNITION:
+- Develop computer vision algorithms for chart pattern detection
+- Create proprietary pattern templates through ML training
+- Build pattern completion probability algorithms
+- Design breakout direction prediction systems
+- Develop custom support/resistance level detection
+- Create pattern reliability scoring based on historical performance
+```
+
+### **2. ADVANCED TECHNICAL INDICATOR ANALYSIS (40+ UNIQUE APPROACHES)**
+```
+DON'T JUST USE INDICATOR VALUES - CREATE PATTERN ANALYSIS WITHIN INDICATORS:
+
+PROPRIETARY INDICATOR METHODOLOGIES:
+- Bollinger Bands: Squeeze detection algorithms, expansion pattern recognition, band walking analysis
+- VWAP: Flat VWAP significance detection, reversion pattern algorithms, multi-timeframe analysis
+- RSI: Divergence pattern detection, trend analysis algorithms, cluster formation recognition
+- MACD: Histogram pattern analysis, signal crossover algorithms, momentum shift detection
+- Volume Indicators: OBV pattern recognition, accumulation/distribution algorithms, volume breakout detection
+- Moving Averages: Dynamic support/resistance algorithms, MA cloud analysis, golden/death cross patterns
+- Stochastic: %K/%D relationship patterns, divergence analysis algorithms
+- ATR: Volatility expansion/contraction pattern detection
+- Williams %R: Momentum pattern analysis algorithms
+- CCI: Cyclical pattern detection systems
+- ADX: Trend strength evolution algorithms
+- Parabolic SAR: Trend reversal timing prediction
+- Ichimoku: Cloud pattern analysis, support/resistance algorithms
+- Fibonacci: Retracement completion probability calculation
+- Pivot Points: Support/resistance cluster analysis
+
+PLUS 25+ ADDITIONAL CUSTOM COMPOSITE INDICATORS:
+- Design algorithms that combine multiple indicators intelligently
+- Create dynamic indicator thresholds based on market conditions
+- Build indicator relationship analysis systems
+- Develop volatility-adjusted indicator interpretations
+- Create multi-timeframe indicator convergence detection
+```
+
+### **3. DEEP LEARNING PREDICTION SYSTEM**
+```
+AUTONOMOUS ML PREDICTION FRAMEWORK:
+
+NEURAL NETWORK ARCHITECTURES:
+- LSTM Networks: For sequential pattern recognition in price and volume data
+- CNN Layers: For visual chart pattern recognition and analysis
+- Transformer/Attention Models: For complex pattern relationships and long-range dependencies
+- AutoEncoders: For anomaly detection and pattern discovery
+- Ensemble Methods: Combining multiple model approaches for robust predictions
+- Custom Loss Functions: Optimized specifically for financial time series prediction
+
+PREDICTION OUTPUTS (MANDATORY FOR EVERY ANALYSIS):
+- Movement Direction Probability: "X% chance of upward/downward movement"
+- Target Price Prediction: "Predicted range with confidence intervals"
+- Prediction Confidence Level: "High/Medium/Low confidence with percentage"
+- Time Horizon: "Expected timeframe for prediction realization"
+- Risk Assessment: "Volatility-based risk level with stop-loss recommendations"
+- Pattern Trigger Conditions: "Specific conditions that must occur for prediction activation"
+- Feature Importance: "Which features/indicators contributed most to prediction"
+```
+
+---
+
+## 📊 COMPREHENSIVE TIME-BASED ANALYSIS:
+
+### **MULTIPLE TIMEFRAME ANALYSIS (MANDATORY):**
+- **5-minute charts**: Intraday scalping analysis
+- **15-minute charts**: Short-term swing analysis  
+- **1-day charts**: Daily trend analysis
+- **1-week charts**: Long-term trend analysis
+
+### **CYCLICAL PATTERN DETECTION:**
+```
+BUILD AUTONOMOUS TIME-BASED ALGORITHMS:
+- Intraday time cycle detection (hourly pattern recognition)
+- Day-of-week effect analysis algorithms
+- Monthly/seasonal pattern detection systems
+- Gap analysis: Gap up/down pattern recognition with fill probability calculation
+- Expiry/earnings effect pattern detection
+- Maximum single-session movement analysis
+- Reversal timing prediction algorithms
+- Special event pattern recognition (dividends, splits, announcements)
+```
+
+---
+
+## 📋 DUAL REPORT SYSTEM (MANDATORY SEPARATE OUTPUTS):
+
+### **🔧 TECHNICAL ANALYSIS REPORT:**
+```
+COMPREHENSIVE TECHNICAL INTELLIGENCE:
+- Current values from all 40+ technical indicators
+- Pattern analysis within each indicator (not just values)
+- Multi-timeframe technical alignment analysis
+- Composite technical signals and interpretations
+- Technical-based price predictions with ML confidence
+- Feature importance: Which technical factors drove predictions
+- Technical risk assessment based on volatility and momentum
+- Technical entry/exit point recommendations
+- Support/resistance levels from technical perspective
+```
+
+### **📈 PRICE ACTION ANALYSIS REPORT:**
+```
+COMPREHENSIVE PRICE ACTION INTELLIGENCE:
+- All detected candlestick patterns (traditional + ML-discovered)
+- Chart pattern analysis (traditional + custom discovered patterns)
+- Volume-price relationship analysis
+- Support/resistance levels with strength scoring
+- Price action-based predictions with ML confidence
+- Pattern-based entry/exit points
+- Breakout analysis with probability and direction
+- Volume confirmation analysis
+- Price exhaustion and reversal signal detection
+```
+
+---
+
+## 🎨 ADVANCED VISUALIZATION REQUIREMENTS:
+
+### **CANDLESTICK CHART OUTPUTS (MANDATORY):**
+```
+NO LINE CHARTS - ONLY PROFESSIONAL CANDLESTICK ANALYSIS:
+- Interactive candlestick charts for all timeframes
+- Pattern highlighting with colored markers and annotations
+- Support/resistance level overlays with strength indicators
+- Volume analysis with color-coded volume bars
+- Technical indicator overlays (RSI, MACD, Bollinger Bands, etc.)
+- Pattern detection markers and labels
+- Zoom and hover functionality for detailed analysis
+- Multi-timeframe comparison views
+- Professional trading interface appearance
+```
+
+---
+
+## 🔍 DEEP INSIGHT FEATURES (MANDATORY):
+
+### **ML-POWERED INSIGHTS:**
+```
+AUTONOMOUS INTELLIGENCE OUTPUTS:
+- Feature Attribution Analysis: "RSI divergence contributed X% to prediction"
+- Confidence Intervals: "95% confidence range for price targets"
+- Scenario Analysis: Best case/worst case/most likely predictions
+- Pattern Evolution Tracking: How patterns change across timeframes
+- Market Regime Detection: Bull/bear/sideways market identification
+- Historical Performance: Accuracy tracking of all predictions
+- Risk-Reward Analysis: Calculated risk-reward ratios for all predictions
+- Correlation Analysis: How different factors interact and influence predictions
+```
+
+---
+
+## 💾 COMPREHENSIVE DATA REQUIREMENTS:
+
+### **DATA SPECIFICATIONS:**
+```
+MAXIMUM DATA UTILIZATION:
+- Minimum 2 years of historical data for robust ML training
+- Multiple timeframe synchronization (1m, 5m, 15m, 1h, 1d, 1w)
+- Live data fetching from Indian stock market sources
+- Volume and price data with corporate action adjustments
+- Real-time updates and automatic model retraining
+- Data quality validation and error handling
+```
+
+---
+
+## 🎯 AUTONOMOUS SYSTEM BEHAVIOR:
+
+### **SELF-LEARNING CAPABILITIES:**
+```
+SYSTEM MUST OPERATE AUTONOMOUSLY:
+- Automatic pattern discovery without predefined templates
+- Self-updating prediction models based on performance
+- Adaptive thresholds based on changing market conditions
+- Automatic feature selection and importance calculation
+- Performance-based model ensemble weighting
+- Continuous backtesting and accuracy improvement
+```
+
+### **PROPRIETARY METHODOLOGIES:**
+```
+CREATE ORIGINAL APPROACHES (NO COPYING):
+- Unique technical analysis methodologies
+- Custom pattern recognition algorithms
+- Original prediction confidence calculations
+- Proprietary risk assessment systems
+- Custom visualization methods
+- Novel feature engineering approaches
+```
+
+---
+
+## 📤 OUTPUT DELIVERABLES:
+
+### **REQUIRED OUTPUTS:**
+1. **Comprehensive Excel Report**: Multi-sheet workbook with all analysis data
+2. **Interactive HTML Charts**: Professional candlestick charts with full functionality
+3. **Detailed PDF Reports**: Separate technical and price action analysis reports
+4. **JSON Data Export**: Machine-readable analysis results
+5. **PNG Chart Exports**: High-quality static charts for all timeframes
+6. **Analysis Summary**: Executive summary with key insights and predictions
+
+---
+
+## 🏆 SUCCESS CRITERIA:
+
+### **SYSTEM MUST DELIVER:**
+```
+MANDATORY PERFORMANCE STANDARDS:
+1. Specific price predictions with probability percentages
+2. Confidence scores for every prediction and analysis
+3. Feature importance explanations for all ML decisions
+4. Separate technical and price action analysis (not combined)
+5. Professional-grade candlestick chart visualizations
+6. Discovery of new patterns not found in traditional analysis
+7. Actionable trading insights with entry/exit points
+8. Risk assessment with specific stop-loss recommendations
+9. Performance tracking and accuracy metrics
+10. Real-time adaptability to changing market conditions
+```
+
+---
+
+## ⚡ CRITICAL IMPLEMENTATION NOTES:
+
+### **ABSOLUTELY MANDATORY:**
+- **NO TEMPLATE COPYING**: All algorithms must be original and proprietary
+- **AUTONOMOUS LEARNING**: System learns patterns directly from data without human definitions
+- **CANDLESTICK CHARTS ONLY**: No line charts - professional candlestick analysis required
+- **SEPARATE REPORTS**: Technical and price action analysis must be completely separate
+- **ML PREDICTIONS**: Every analysis must include ML-based predictions with confidence
+- **LIVE DATA**: Real-time Indian stock market data integration
+- **SINGLE PARAMETER**: Only stock symbol changeable, all other functionality automated
+
+---
+
+## 🚀 FINAL MANDATE:
+
+Build a **PROPRIETARY MARKET INTELLIGENCE SYSTEM** that:
+- **THINKS** like an expert trader using machine learning
+- **DISCOVERS** its own patterns through autonomous data analysis
+- **PREDICTS** market movements with statistical confidence
+- **ADAPTS** continuously to changing market conditions
+- **PROVIDES** actionable insights with specific recommendations
+- **VISUALIZES** analysis through professional candlestick charts
+- **OPERATES** autonomously with minimal human intervention
+
+**The system should be so advanced that it reveals hidden market patterns and provides institutional-level insights with complete ML-backed reasoning for every prediction and recommendation.**
